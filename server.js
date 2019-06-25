@@ -1,4 +1,4 @@
-//npm init -> Mash ENTER -> node server.js
+// npm init -> npm install express -> Mash ENTER -> node server.js
 var express = require('express');
 
 var servidor = express();
