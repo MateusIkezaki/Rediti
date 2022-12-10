@@ -4,7 +4,7 @@
   "description": "A very, very shitty version of Reddit",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {},
   "scripts": {
